@@ -8,7 +8,7 @@ Please follow the following order to view files
 
 3. **File_3_RealtimeFeed:** this file consists of the saved model's integration with the real time feed.
 
-4. **cnn3d1.0.h5:** this is the .h5 file of the model with highest accuracy. it has been created by the model present in  File_1_GoodModels and used in File_3_RealtimeFeed for real time detection
+4. **cnn3d1.0.h5:** this is the .h5 file of the model with highest accuracy. it has been created by the model present in  File_1_GoodModels and used in File_3_RealtimeFeed for real time detection. Not included on Github due to huge file size.
 
 5. **Media1:** is the recorded output of the project
 
