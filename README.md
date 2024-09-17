@@ -12,6 +12,4 @@ Please follow the following order to view files
 
 5. **Media1:** is the recorded output of the project
 
-6. The datasets have been provided as a link in the email
-
-7. The link for data set: https://paperswithcode.com/dataset/infiniterep 
+6. The link for data set: https://paperswithcode.com/dataset/infiniterep 
